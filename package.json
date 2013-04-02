@@ -1,0 +1,7 @@
+{
+  "name": "gelam-tools",
+  "version": "0.0.1",
+  "dependencies": {
+    "textspark": ">= 0.1.0"
+  }
+}
